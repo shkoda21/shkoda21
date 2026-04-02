@@ -13,12 +13,12 @@ I enjoy receiving a concrete problem and building a clean, reliable solution for
 - **Frontend:** HTML, CSS, JavaScript (basic)
 - **Tools:** Git
 
-Projects
-Spirit Inventory System
+## Projects
+**Spirit Inventory System**
 Production inventory system for batch-based alcohol manufacturing. Bottle-level tracking, TTB regulatory reporting, invoice generation with legal snapshots, multi-role access control, and full audit logging.
 Python Django PostgreSQL AWS Nginx Gunicorn
 
-Currently
+**Currently**
 
 Building backend applications with Django
 Open to junior backend developer roles
