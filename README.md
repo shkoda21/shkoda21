@@ -6,10 +6,10 @@ My main project is a production-deployed inventory management system for an alco
 I enjoy receiving a concrete problem and building a clean, reliable solution for it.
 
 Skills
-Backend: Python, Django \n
-Database: PostgreSQL, SQLite \n
-Deployment: AWS Lightsail, Nginx, Gunicorn \n
-Frontend: HTML, CSS, JavaScript (basic) \n
+Backend: Python, Django
+Database: PostgreSQL, SQLite
+Deployment: AWS Lightsail, Nginx, Gunicorn
+Frontend: HTML, CSS, JavaScript (basic)
 Tools: Git
 
 Projects
