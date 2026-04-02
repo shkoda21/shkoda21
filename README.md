@@ -24,4 +24,5 @@ Building backend applications with Django
 Open to junior backend developer roles
 
 
-I read and write code with the help of documentation — I believe that's how most real development works.
+
+- I read and write code with the help of documentation — I believe that's how most real development works.
