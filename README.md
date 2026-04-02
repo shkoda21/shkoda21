@@ -5,12 +5,13 @@ A self-taught backend developer focused on building real, working software for r
 My main project is a production-deployed inventory management system for an alcohol manufacturing business — tracking individual bottles through production, sales, returns, and regulatory reporting (TTB). It runs on AWS Lightsail with Nginx, Gunicorn, and PostgreSQL.
 I enjoy receiving a concrete problem and building a clean, reliable solution for it.
 
-Skills
-Backend: Python, Django
-Database: PostgreSQL, SQLite
-Deployment: AWS Lightsail, Nginx, Gunicorn
-Frontend: HTML, CSS, JavaScript (basic)
-Tools: Git
+## Skills
+
+- **Backend:** Python, Django
+- **Database:** PostgreSQL, SQLite
+- **Deployment:** AWS Lightsail, Nginx, Gunicorn
+- **Frontend:** HTML, CSS, JavaScript (basic)
+- **Tools:** Git
 
 Projects
 Spirit Inventory System
